@@ -109,6 +109,13 @@ https://learn.microsoft.com/en-us/azure/azure-government/compliance/azure-servic
 
 **IBM Software on ARO **
 
+IBM Software on ARO: 
+<p align="left">
+  <a href="#"><img src="./CP4I.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
+
 IBM Maximo MAS
 Maximo on ARO - Microsoft blog
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite
@@ -150,6 +157,13 @@ https://www.ibm.com/blog/announcement/watsonx-on-microsoft-azure/
 
 Watsonx.ai on ARO (blog)  IBM
 https://developer.ibm.com/articles/awb-introducing-watsonx-ai-on-microsoft-azure/
+
+Joint Value Statement: 
+<p align="left">
+  <a href="#"><img src="./governance.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
 
 IBM Watsonx.governance on ARO reference architecture
 https://developer.ibm.com/articles/awb-watsonx-governance-responsible-transparent-explainable-ai/
