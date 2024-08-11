@@ -2,7 +2,7 @@
 #by Andrew Grimes, thsi is my own effort an unnofficial 
 #These are links to help with documentation and resources for the joint Red Had and Microsoft Azure managed service based on OpenShift. 
 
-Sample Backend App and Input Image: 
+Joint Value Statement: 
 <p align="left">
   <a href="#"><img src="./sample.jpg" width="600"></a> <br />
   <em> 
@@ -100,6 +100,7 @@ Azure ARO Compliance
 https://learn.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#terminology-used-1
 
 **IBM Software on ARO **
+
 IBM Maximo MAS
 Maximo on ARO - Microsoft blog
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite
@@ -203,6 +204,7 @@ https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduc
 https://www.ibm.com/support/pages/node/6592835
 
 **Microsoft ARO Technical Resources**
+
 Microsoft Support FAQ
 https://docs.microsoft.com/en-us/azure/openshift/openshift-faq#how-do-i-handle-cluster-upgrades
 
