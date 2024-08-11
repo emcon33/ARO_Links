@@ -30,7 +30,6 @@ Internal Red Hat Resource page (internal link)
 https://content.redhat.com/us/en/sales-enablement/sales-plays-overview/salesplay-openshift/salestactic-openshift-cloud-services.html#tabs-91412d45a3-item-53952adf7c-tab
 
 
-
 Azure Sizer for Pricing supports ARO: 
 <p align="left">
   <a href="#"><img src="./sizer.jpg" width="600"></a> <br />
@@ -106,6 +105,11 @@ https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-azure-com
 
 Azure ARO Compliance
 https://learn.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#terminology-used-1
+
+Generative AI and ARO
+https://www.redhat.com/en/blog/how-do-you-operationalize-generative-ai-consistently-and-scale
+
+
 
 **IBM Software on ARO **
 
