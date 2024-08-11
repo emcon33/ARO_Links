@@ -43,11 +43,40 @@ https://azure.microsoft.com/en-us/pricing/calculator/
 ARO Public Pricing 
 https://azure.microsoft.com/en-us/pricing/details/openshift/
 
+
+**ARO References **
+
 Public Microsoft ARO References (Microsoft site) 
 https://customers.microsoft.com/en-us/search?sq=%22Azure%20red%20hat%20openshift%22&ff=&p=2&so=story_publish_date%20desc
 
 Ortec Finance ARO Reference (Microsoft site) 
 https://customers.microsoft.com/en-us/story/1485727667262024367-ortec-finance-cloud-native-platform-azure-red-hat-openshift
+
+Symend Azure AI and ARO reference (Microsoft Site) 
+https://customers.microsoft.com/en-ca/story/1772332670120262733-symend-azure-machine-learning-professional-services-en-canada
+
+Vincini Energies ARO Reference (Microsoft Site)
+https://customers.microsoft.com/en-us/story/1340822776599403898-vinci-energies-energy-microsoft365-en-netherlands
+
+Vodaphone ARO Reference (RH Site)
+https://www.redhat.com/en/about/videos/vodafone-nz-deploys-redhat-solutions
+
+Suncorp ARO Reference (RH Site)
+https://www.redhat.com/rhdc/managed-files/rh-suncorp-case-study-322881pr-202309-en.pdf
+
+Yes Bank ARO Reference (RH Site) 
+https://www.redhat.com/en/about/press-releases/yes-bank-collaborates-red-hat-redefine-mobile-banking-experience-its-customers
+
+Groupo Pinero ARO Reference (RH Site)
+https://www.youtube.com/watch?v=s9hJfu8_mG8
+
+Novoblanko ARO Reference (RH Site)
+https://www.redhat.com/en/resources/novobanco-case-study
+
+Exxon ARO Reference (RH Site) 
+https://www.redhat.com/en/about/press-releases/red-hat-details-benefits-energy-customer-after-migrating-workloads-hybrid-cloud-infrastructure
+
+**ARO Documentation **
 
 ARO Azure Documentation: 
 https://learn.microsoft.com/en-us/azure/openshift/
@@ -74,7 +103,7 @@ Ansible with ARO Github:
 https://github.com/rh-mobb/ansible-aro
 
 ARO deployment Video
-here is a quick, 4 min demo, of deploying an ARO cluster in the Azure portal: https://www.youtube.com/watch?v=iY66MONBfVQ&t=1s
+Here is a quick, 4 min demo, of deploying an ARO cluster in the Azure portal: https://www.youtube.com/watch?v=iY66MONBfVQ&t=1s
 
 **ARO Azure Integration **
 Integrate ARO with Azure DevOps (Video) 
