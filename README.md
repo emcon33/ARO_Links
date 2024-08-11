@@ -76,6 +76,10 @@ https://www.redhat.com/en/resources/novobanco-case-study
 Exxon ARO Reference (RH Site) 
 https://www.redhat.com/en/about/press-releases/red-hat-details-benefits-energy-customer-after-migrating-workloads-hybrid-cloud-infrastructure
 
+Campari ARO reference IBM Consulting (IBM site) 
+https://www.ibm.com/case-studies/campari-group
+
+
 **ARO Documentation **
 
 ARO Azure Documentation: 
