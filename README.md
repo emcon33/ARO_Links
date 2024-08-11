@@ -225,6 +225,9 @@ IBM Support Matrix
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
 https://www.ibm.com/support/pages/node/6592835
 
+NetApp ANF configuration with ARO
+https://cloud.redhat.com/experts/aro/trident/
+
 **Microsoft ARO Technical Resources**
 
 Microsoft Support FAQ
