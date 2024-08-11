@@ -29,11 +29,19 @@ ARO RHPDS Demo: (internal) https://demo.redhat.com/catalog?item=babylon-catalog-
 Internal Red Hat Resource page (internal link) 
 https://content.redhat.com/us/en/sales-enablement/sales-plays-overview/salesplay-openshift/salestactic-openshift-cloud-services.html#tabs-91412d45a3-item-53952adf7c-tab
 
-ARO Public Pricing 
-https://azure.microsoft.com/en-us/pricing/details/openshift/
+
+
+Joint Value Statement: 
+<p align="left">
+  <a href="#"><img src="./sizer.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
 
 ARO Pricing Calculator
 https://azure.microsoft.com/en-us/pricing/calculator/
+
+ARO Public Pricing 
 https://azure.microsoft.com/en-us/pricing/details/openshift/
 
 Public Microsoft ARO References (Microsoft site) 
