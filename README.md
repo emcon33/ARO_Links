@@ -31,7 +31,7 @@ https://content.redhat.com/us/en/sales-enablement/sales-plays-overview/salesplay
 
 
 
-Joint Value Statement: 
+Azure Sizer for Pricing supports ARO: 
 <p align="left">
   <a href="#"><img src="./sizer.jpg" width="600"></a> <br />
   <em> 
