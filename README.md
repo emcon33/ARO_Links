@@ -261,8 +261,11 @@ IBM Support Matrix
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
 https://www.ibm.com/support/pages/node/6592835
 
-NetApp ANF configuration with ARO
+NetApp/Azure ANF configuration with ARO
 https://cloud.redhat.com/experts/aro/trident/
+
+NetApp/Azure ANF with ARO support 
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/using-trident-to-automate-azure-netapp-files-from-openshift/ba-p/2367351
 
 **Microsoft ARO Technical Resources**
 
