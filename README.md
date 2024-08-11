@@ -4,7 +4,7 @@
 
 Sample Backend App and Input Image: 
 <p align="left">
-  <a href="#"><img src="./aro.jpg" width="600"></a> <br />
+  <a href="#"><img src="./sample.jpg" width="600"></a> <br />
   <em> 
   </em>
 </p>
