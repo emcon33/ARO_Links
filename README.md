@@ -79,6 +79,9 @@ https://www.redhat.com/en/about/press-releases/red-hat-details-benefits-energy-c
 Campari ARO reference IBM Consulting (IBM site) 
 https://www.ibm.com/case-studies/campari-group
 
+IBM Consulting and ARO
+https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/
+
 
 **ARO Documentation **
 
