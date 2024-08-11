@@ -94,6 +94,10 @@ Customer Support Matrix: https://learn.microsoft.com/en-us/azure/openshift/respo
 ARO Architecture: Azure Site
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-red-hat-openshift-reference-architecture-amp-reference/ba-p/3470115
 
+ARO SLA and Service Description
+"Azure Red Hat OpenShift offers a Service Level Agreement to guarantee that the service will be available 99.95% of the time." 
+https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services?lang=1
+
 ARO Network: Azure site
 https://learn.microsoft.com/en-us/azure/openshift/concepts-networking
 
