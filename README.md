@@ -156,6 +156,9 @@ IBM Software on ARO:
   </em>
 </p>
 
+IBM Maximo Reference Architecture (OpenShift)
+https://ibm.github.io/intelligent-asset-reference-architecture/Overview/
+
 IBM Maximo MAS
 Maximo on ARO - Microsoft blog
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite
