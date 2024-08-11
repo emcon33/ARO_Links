@@ -1,6 +1,15 @@
-# ARO_Links
-#Pre-Sales Resources for Red Hat OpenShift Service on Azure 
+# Azure Red Hat Openshift ARO Public Links Document
+#by Andrew Grimes, thsi is my own effort an unnofficial 
+#These are links to help with documentation and resources for the joint Red Had and Microsoft Azure managed service based on OpenShift. 
 
+Sample Backend App and Input Image: 
+<p align="left">
+  <a href="#"><img src="./aro.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
+
+**Azure and Red Hat Resources**
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
@@ -16,6 +25,9 @@ https://docs.google.com/presentation/d/1J9ycw3u2Xo8PdUOMu0eLxSxzUuKPNP-GiM0uBUby
 ARO RHPDS Demo: (internal) https://demo.redhat.com/catalog?item=babylon-catalog-prod/azure-gpte.open-environment-aro4-sub.prod&utm_source=webapp&utm_medium=share-link
 
 **ARO Azure Resources **
+
+Internal Red Hat Resource page (internal link) 
+https://content.redhat.com/us/en/sales-enablement/sales-plays-overview/salesplay-openshift/salestactic-openshift-cloud-services.html#tabs-91412d45a3-item-53952adf7c-tab
 
 ARO Public Pricing 
 https://azure.microsoft.com/en-us/pricing/details/openshift/
