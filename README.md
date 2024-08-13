@@ -120,6 +120,9 @@ Here is a quick, 4 min demo, of deploying an ARO cluster in the Azure portal: ht
 Integrate ARO with Azure DevOps (Video) 
 https://www.youtube.com/watch?v=ugmY5DdErJ4
 
+Integrate ARO with Azure DevOps (MOBB doc) 
+https://cloud.redhat.com/experts/misc/azure-dev-ops-with-managed-openshift/
+
 ARO OpenAI Chatbot 
 https://github.com/rcarrat-AI/aro-azureopenai-gitops
 https://www.redhat.com/en/blog/gitops-action-building-and-deploying-ai-chatbots-azure-red-hat-openshift-azure-openai
