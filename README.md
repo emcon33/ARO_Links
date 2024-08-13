@@ -24,6 +24,10 @@ https://docs.google.com/presentation/d/1J9ycw3u2Xo8PdUOMu0eLxSxzUuKPNP-GiM0uBUby
 
 ARO RHPDS Demo: (internal) https://demo.redhat.com/catalog?item=babylon-catalog-prod/azure-gpte.open-environment-aro4-sub.prod&utm_source=webapp&utm_medium=share-link
 
+Next Virtual Workshop Sept 18, 2024 (registration) 
+https://events.redhat.com/profile/form/index.cfm?PKformID=0x1198597abcd&sc_cid=7015Y0000048QBXQA2
+
+
 **ARO Azure Resources **
 
 Internal Red Hat Resource page (internal link) 
