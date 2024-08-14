@@ -61,10 +61,10 @@ https://customers.microsoft.com/en-us/story/1485727667262024367-ortec-finance-cl
 Symend Azure AI and ARO reference (Microsoft Site) 
 https://customers.microsoft.com/en-ca/story/1772332670120262733-symend-azure-machine-learning-professional-services-en-canada
 
-Vincini Energies ARO Reference (Microsoft Site)
+Vinci Energies ARO Reference (Microsoft Site)
 https://customers.microsoft.com/en-us/story/1340822776599403898-vinci-energies-energy-microsoft365-en-netherlands
 
-Vodaphone ARO Reference (RH Site)
+Vodafone ARO Reference (RH Site)
 https://www.redhat.com/en/about/videos/vodafone-nz-deploys-redhat-solutions
 
 Suncorp ARO Reference (RH Site)
