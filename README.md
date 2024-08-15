@@ -290,6 +290,11 @@ https://cloud.redhat.com/experts/aro/trident/
 NetApp/Azure ANF with ARO support 
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/using-trident-to-automate-azure-netapp-files-from-openshift/ba-p/2367351
 
+Pure Portworx on ARO
+https://docs.portworx.com/portworx-enterprise/platform/openshift/ocp-azure/openshift-azure-with-console-plugin
+
+
+
 **Microsoft ARO Technical Resources**
 
 Microsoft Support FAQ
