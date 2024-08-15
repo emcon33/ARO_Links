@@ -55,7 +55,7 @@ http://red.ht/Level-Up
 Public Microsoft ARO References (Microsoft site) 
 https://customers.microsoft.com/en-us/search?sq=%22Azure%20red%20hat%20openshift%22&ff=&p=2&so=story_publish_date%20desc
 
-Ortec Finance ARO Reference (Microsoft site) 
+Ortec Finance ARO/RHOAI Reference (Microsoft site) 
 https://customers.microsoft.com/en-us/story/1485727667262024367-ortec-finance-cloud-native-platform-azure-red-hat-openshift
 
 Symend Azure AI and ARO reference (Microsoft Site) 
