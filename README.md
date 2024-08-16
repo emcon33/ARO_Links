@@ -266,6 +266,9 @@ IBM CP4D
 CP4D on ARO Marketplace Listing
 https://azuremarketplace.microsoft.com/en-us/marketplace/apps/ibm-usa-ny-armonk-hq-6275750-ibmcloud-asperia.cloud-pak-for-data-ibm?tab=overview
 
+IBM CP4D on ARO Video
+https://video.ibm.com/recorded/128365440
+
 IBM LIberty
 IBM Liberty on ARO IBM Documentation
 https://www.ibm.com/docs/en/was-liberty/core?topic=container-running-websphere-liberty-microsoft-azure
