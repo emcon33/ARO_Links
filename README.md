@@ -41,6 +41,12 @@ Azure Sizer for Pricing supports ARO:
   </em>
 </p>
 
+ARO FAQ
+https://learn.microsoft.com/en-us/azure/openshift/openshift-faq
+
+Azure ARO Analyst Paper
+https://www.redhat.com/en/engage/forrester-microsoft-azure-openshift-value-analyst-material
+
 ARO Pricing Calculator
 https://azure.microsoft.com/en-us/pricing/calculator/
 
@@ -49,6 +55,14 @@ https://azure.microsoft.com/en-us/pricing/details/openshift/
 
 ARO Level Up (POC Program) 
 http://red.ht/Level-Up
+
+ARO Workshop (MOBB)
+https://microsoft.github.io/aroworkshop/
+
+ARO Image Classification App
+https://github.com/emcon33/inference-aro-workshop
+
+
 
 **ARO References **
 
@@ -126,6 +140,9 @@ Here is a quick, 4 min demo, of deploying an ARO cluster in the Azure portal: ht
 Integrate ARO with Azure DevOps (Video) 
 https://www.youtube.com/watch?v=ugmY5DdErJ4
 
+Integrate ARO with Azure DevOps annotated page 
+https://cloud.redhat.com/learning/learn:microsoft-azure-red-hat-openshift-explained/resource/resources:devops-integration-microsoft-azure-red-hat-openshift
+
 Integrate ARO with Azure DevOps (MOBB doc) 
 https://cloud.redhat.com/experts/misc/azure-dev-ops-with-managed-openshift/
 
@@ -145,9 +162,6 @@ https://medium.com/@somnath.2301/kubernetes-insights-elevating-kubernetes-health
 
 ChatOps on ARO with OpenAI
 https://meatybytes.io/posts/openshift/ocp-features/ai-ml/chatops/
-
-Azure AI and ARO reference
-https://customers.microsoft.com/en-ca/story/1772332670120262733-symend-azure-machine-learning-professional-services-en-canada
 
 Azure ARO Compliance
 https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-azure-compliance-offerings/Microsoft%20Azure%20Compliance%20Offerings.pdf
@@ -302,6 +316,11 @@ https://docs.microsoft.com/en-us/azure/openshift/openshift-faq#how-do-i-handle-c
 
 Azure ARO lifecycles: 
 https://docs.microsoft.com/en-us/azure/openshift/support-lifecycle
+
+Azure ARO Cost Management (video)
+https://www.youtube.com/watch?v=nl3whsKMdnE
+
+
 
 
 
