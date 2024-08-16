@@ -1,8 +1,8 @@
 # Azure Red Hat Openshift ARO Public Links Document
-#by Andrew Grimes, thsi is my own effort an unnofficial 
+#by Andrew Grimes, this is my own effort and unnofficial 
 #These are links to help with documentation and resources for the joint Red Had and Microsoft Azure managed service based on OpenShift. 
 
-Joint Value Statement: 
+Microsoft and Red Hat "Turnkey" Application Platform 
 <p align="left">
   <a href="#"><img src="./sample.jpg" width="600"></a> <br />
   <em> 
@@ -286,7 +286,7 @@ https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/23.0.1?topic=automation
 https://github.com/apollo-business-automation/ibm-cp4ba-demo-deployment
 https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/23.0.1?topic=automation-installing
 
-M2M ARO Pricing Discount
+M2M ARO Pricing Discount (internal) 
 https://docs.google.com/document/d/1T_DY3YTRVP5D6T9j4lK06bGzRyQ1unWb7mtV-R3di8o/edit
 
 IBM Sterling on ARO
@@ -327,6 +327,11 @@ https://docs.microsoft.com/en-us/azure/openshift/support-lifecycle
 
 Azure ARO Cost Management (video)
 https://www.youtube.com/watch?v=nl3whsKMdnE
+
+Azure ARO Networking
+https://learn.microsoft.com/en-us/azure/openshift/concepts-networking#networking-for-azure-red-hat-openshift
+
+
 
 
 
