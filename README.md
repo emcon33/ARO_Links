@@ -53,8 +53,11 @@ https://azure.microsoft.com/en-us/pricing/calculator/
 ARO Public Pricing 
 https://azure.microsoft.com/en-us/pricing/details/openshift/
 
-ARO Level Up (POC Program) 
+ARO Level Up (POC Program) external
 http://red.ht/Level-Up
+
+ARO Level up (POC Program) Internal
+https://source.redhat.com/groups/public/crosssellupsell/level_up_openshift/level_up_cloud_services
 
 ARO Workshop (MOBB)
 https://microsoft.github.io/aroworkshop/
