@@ -181,6 +181,11 @@ https://learn.microsoft.com/en-us/azure/azure-government/compliance/azure-servic
 Generative AI and ARO
 https://www.redhat.com/en/blog/how-do-you-operationalize-generative-ai-consistently-and-scale
 
+Deploy Java JBOSS EAP on ARO Video
+https://learn.microsoft.com/en-us/azure/developer/java/ee/jboss-eap-on-aro
+https://www.youtube.com/watch?v=HE2t9PIaymE
+https://www.youtube.com/watch?v=k1xP37agUpM
+
 
 
 **IBM Software on ARO **
@@ -331,6 +336,11 @@ https://docs.portworx.com/portworx-enterprise/platform/openshift/ocp-azure/opens
 
 Pure Portworx on ARO Multi-Cloud (customer) 
 https://investor.purestorage.com/news-and-events/press-releases/press-release-details/2022/Pure-Storage-Expands-as-a-Service-Model-Across-Full-Suite-of-Portworx-Offerings-and-Introduces-the-Next-Generation-of-Portworx-Enterprise/default.aspx
+
+Trillio and ARO Data Protection 
+https://trilio.io/resources/azure-red-hat-openshift/
+
+
 
 ARO ODF Multi-Cloud Solution 
 https://redhat-solution-patterns.github.io/solution-pattern-multicloud-gitops-odf/solution-pattern-multicloud-gitops-odf/02-architecture.html#tech_stack
