@@ -102,6 +102,9 @@ https://www.redhat.com/en/about/press-releases/red-hat-details-benefits-energy-c
 Campari ARO reference IBM Consulting (IBM site) 
 https://www.ibm.com/case-studies/campari-group
 
+Adobe Watsonx.ai strategy with OpenShift (ARO).... 
+https://blog.adobe.com/en/publish/2024/05/21/generative-ai-brings-new-opportunities-adobes-partnership-with-ibm
+
 IBM Consulting and ARO
 https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/
 
