@@ -127,6 +127,9 @@ https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-O
 ARO Network: Azure site
 https://learn.microsoft.com/en-us/azure/openshift/concepts-networking
 
+ARO GPU configuration
+https://learn.microsoft.com/en-us/azure/openshift/howto-gpu-workloads
+
 Specific ARO Reference (Microsoft site) 
 https://customers.microsoft.com/en-us/story/1485727667262024367-ortec-finance-cloud-native-platform-azure-red-hat-openshift
 
@@ -232,7 +235,6 @@ Maximo on ARO support matrix from IBM.
 Select IBM Maximo, Version 8.11 and Containers. Then Submit, ARO is under the container tab
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
 
-
 IBM Tririga on ARO
 https://azuremarketplace.microsoft.com/en-us/marketplace/apps/aad.ibmtririgaoncloud?tab=Overview
 
@@ -248,7 +250,7 @@ https://newsroom.ibm.com/Blog-Adobe-and-IBM-Transforming-Customer-Experiences-wi
 
 
 
-Joint Value Statement: 
+Watsonx.governance on ARO with Azure AI Integration 
 <p align="left">
   <a href="#"><img src="./governance.jpg" width="600"></a> <br />
   <em> 
@@ -318,6 +320,8 @@ IBM Support Matrix
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
 https://www.ibm.com/support/pages/node/6592835
 
+
+**ARO ISV partners **
 NetApp/Azure ANF configuration with ARO
 https://cloud.redhat.com/experts/aro/trident/
 
