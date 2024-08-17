@@ -192,6 +192,9 @@ https://www.youtube.com/watch?v=k1xP37agUpM
 Azure ARO Training 
 https://learn.microsoft.com/en-us/training/modules/introduction-to-red-hat-azure/
 
+Drupal on OpenShift/ARO
+https://www.drupal.org/node/1888960
+
 
 **IBM Software on ARO **
 
@@ -334,7 +337,7 @@ https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduc
 https://www.ibm.com/support/pages/node/6592835
 
 
-**ARO ISV partners Storage**
+**ARO ISV partners Storage and Backup**
 NetApp/Azure ANF configuration with ARO
 https://cloud.redhat.com/experts/aro/trident/
 
@@ -355,8 +358,6 @@ https://trilio.io/resources/case-study-trilio-for-fsis-major-bank/
 
 Veeam Kasten with ARO (direct link to PDF) 
 https://attachments-eu-west-1.insided.com/8e224fbe-2073-45dc-8f90-62bda2d56930/Kasten%20Azure%20OpenShift%20Blueprint.pdf?Expires=1723938684&Signature=tuu3itAbfVBr~U12SkyXMLROUsfC7Dmyie6Zb3e0jDVAtX38OrmclAKgYkfAbEKpLTDfEX6oh6R5qjZlsChHmHeodykl8Z4Dc~0AWtmwHnK58MmbxUCDSOB25Gbl1zmYXaC5S~1LT5lhgFrm2ln~ezeM0DhblqwYRh3JFRqd1P2U0sOtFa-HgveR5u0yEIETB6YysR7dZlVarYpfX2LTW53Gs~MmhKRjPWUgMRdYhkdCp4fErr6DbxT~pAKUs0lNjIxnhFz8ZKfVJFBnTaDoDwyDVaqDxeIlD2~c3h65cD85QOVoHLXFVpsdGhjWt~gEDmFppV2JIYnwlmaJf~XMiA__&Key-Pair-Id=APKAJODP2KXSV47YM4AA
-
-
 
 ARO ODF Multi-Cloud Solution 
 https://redhat-solution-patterns.github.io/solution-pattern-multicloud-gitops-odf/solution-pattern-multicloud-gitops-odf/02-architecture.html#tech_stack
