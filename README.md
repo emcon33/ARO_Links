@@ -347,8 +347,11 @@ https://docs.portworx.com/portworx-enterprise/platform/openshift/ocp-azure/opens
 Pure Portworx on ARO Multi-Cloud (customer) 
 https://investor.purestorage.com/news-and-events/press-releases/press-release-details/2022/Pure-Storage-Expands-as-a-Service-Model-Across-Full-Suite-of-Portworx-Offerings-and-Introduces-the-Next-Generation-of-Portworx-Enterprise/default.aspx
 
-Trillio and ARO Data Protection 
+Trilio and ARO Data Protection 
 https://trilio.io/resources/azure-red-hat-openshift/
+
+Trilio and ARO FSI Customer Reference
+https://trilio.io/resources/case-study-trilio-for-fsis-major-bank/
 
 
 
