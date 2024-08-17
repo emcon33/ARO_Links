@@ -248,8 +248,6 @@ https://developer.ibm.com/articles/awb-introducing-watsonx-ai-on-microsoft-azure
 Watsonx.ai on OpenShift (ARO) IBM for Adobe
 https://newsroom.ibm.com/Blog-Adobe-and-IBM-Transforming-Customer-Experiences-with-Personalization-at-Scale,-Powered-by-AI-and-Hybrid-Cloud-Innovation
 
-
-
 Watsonx.governance on ARO with Azure AI Integration 
 <p align="left">
   <a href="#"><img src="./governance.jpg" width="600"></a> <br />
@@ -321,7 +319,7 @@ https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduc
 https://www.ibm.com/support/pages/node/6592835
 
 
-**ARO ISV partners **
+**ARO ISV partners Storage**
 NetApp/Azure ANF configuration with ARO
 https://cloud.redhat.com/experts/aro/trident/
 
@@ -331,6 +329,14 @@ https://techcommunity.microsoft.com/t5/fasttrack-for-azure/using-trident-to-auto
 Pure Portworx on ARO
 https://docs.portworx.com/portworx-enterprise/platform/openshift/ocp-azure/openshift-azure-with-console-plugin
 
+Pure Portworx on ARO Multi-Cloud (customer) 
+https://investor.purestorage.com/news-and-events/press-releases/press-release-details/2022/Pure-Storage-Expands-as-a-Service-Model-Across-Full-Suite-of-Portworx-Offerings-and-Introduces-the-Next-Generation-of-Portworx-Enterprise/default.aspx
+
+ARO ODF Multi-Cloud Solution 
+https://redhat-solution-patterns.github.io/solution-pattern-multicloud-gitops-odf/solution-pattern-multicloud-gitops-odf/02-architecture.html#tech_stack
+
+ARO Cross Cloud DR Proof of Concept
+https://connect.redhat.com/blog/disaster-recovery-minecraft-server-rosa-aro-0
 
 
 **Microsoft ARO Technical Resources**
