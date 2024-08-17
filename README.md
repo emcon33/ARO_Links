@@ -202,6 +202,7 @@ https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-applicatio
 Maximon on ARO IBM blog
 https://community.ibm.com/community/user/asset-facilities/blogs/sudhir-jain/2023/12/01/mas-on-aro
 
+
 IBM Maximo on ARO IBM Blog Details on Maximo
 https://www.linkedin.com/pulse/ibm-maximo-azure-eduardo-ortega/
 
