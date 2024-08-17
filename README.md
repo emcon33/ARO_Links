@@ -186,6 +186,8 @@ https://learn.microsoft.com/en-us/azure/developer/java/ee/jboss-eap-on-aro
 https://www.youtube.com/watch?v=HE2t9PIaymE
 https://www.youtube.com/watch?v=k1xP37agUpM
 
+Azure ARO Training 
+https://learn.microsoft.com/en-us/training/modules/introduction-to-red-hat-azure/
 
 
 **IBM Software on ARO **
@@ -209,7 +211,6 @@ https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-applicatio
 
 Maximon on ARO IBM blog
 https://community.ibm.com/community/user/asset-facilities/blogs/sudhir-jain/2023/12/01/mas-on-aro
-
 
 IBM Maximo on ARO IBM Blog Details on Maximo
 https://www.linkedin.com/pulse/ibm-maximo-azure-eduardo-ortega/
@@ -318,6 +319,12 @@ https://developer.ibm.com/tutorials/deploying-sterling-order-management-on-azure
 
 IBM Sterling OMS on ARO Install Procedures 
 https://github.com/Azure/sterling
+
+IBM Webspere migrate to ARO
+https://learn.microsoft.com/en-us/azure/developer/java/migration/migrate-websphere-to-azure-redhat-openshift?toc=%2Fazure%2Fdeveloper%2Fjava%2Fee%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fjava%2Fbreadcrumb%2Ftoc.json
+
+IBM Liberty/Websphere migrate to ARO
+https://learn.microsoft.com/en-us/azure/developer/java/ee/liberty-on-aro?tabs=deploy-console
 
 IBM Support Matrix 
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
