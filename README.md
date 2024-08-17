@@ -53,6 +53,9 @@ https://azure.microsoft.com/en-us/pricing/calculator/
 ARO Public Pricing 
 https://azure.microsoft.com/en-us/pricing/details/openshift/
 
+ARO Cost Optimization (video)
+https://www.youtube.com/watch?v=nl3whsKMdnE&t=76s
+
 ARO Level Up (POC Program) external
 http://red.ht/Level-Up
 
