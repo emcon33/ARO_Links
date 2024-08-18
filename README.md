@@ -371,6 +371,9 @@ https://cloud.redhat.com/experts/aro/trident/
 NetApp/Azure ANF with ARO support 
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/using-trident-to-automate-azure-netapp-files-from-openshift/ba-p/2367351
 
+NetApp CVO on Azure with ARO documentation for data protection option (Astra Control is depricated) 
+https://docs.netapp.com/us-en/netapp-solutions/rhhc/rhhc-sm-azure-setup.html#deploy-and-configure-the-red-hat-openshift-container-platform-on-azure
+
 Pure Portworx on ARO
 https://docs.portworx.com/portworx-enterprise/platform/openshift/ocp-azure/openshift-azure-with-console-plugin
 
