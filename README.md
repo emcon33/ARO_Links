@@ -157,7 +157,8 @@ ARO deployment Video
 Here is a quick, 4 min demo, of deploying an ARO cluster in the Azure portal: https://www.youtube.com/watch?v=iY66MONBfVQ&t=1s
 
 **ARO Azure Integration **
-Integrate ARO with Azure DevOps (Video) 
+Integrate ARO with Azure DevOps (Blog and Video) 
+https://medium.com/@bshayr29/use-microsoft-azure-devops-pipeline-with-red-hat-openshift-282b85cb1737
 https://www.youtube.com/watch?v=ugmY5DdErJ4
 
 Integrate ARO with Azure DevOps annotated page 
@@ -212,6 +213,11 @@ IBM Software on ARO:
   <em> 
   </em>
 </p>
+
+General Public Blog on Cloud Pak on Azure Red Hat OpenShift (ARO)
+https://medium.com/@aliboyraz/requirements-for-installing-ibm-cloud-pak-on-azure-redhat-openshift-aro-95c384456d16
+
+
 
 IBM Maximo Reference Architecture (OpenShift)
 https://ibm.github.io/intelligent-asset-reference-architecture/Overview/
