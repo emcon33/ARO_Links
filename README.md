@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=nl3whsKMdnE&t=76s
 ARO Level Up (POC Program) external
 http://red.ht/Level-Up
 
-ARO Level up (POC Program) Internal
+ARO Level up POC Program (internal)
 https://source.redhat.com/groups/public/crosssellupsell/level_up_openshift/level_up_cloud_services
 
 ARO Workshop (MOBB)
@@ -76,6 +76,9 @@ https://microsoft.github.io/aroworkshop/
 
 ARO Image Classification App
 https://github.com/emcon33/inference-aro-workshop
+
+Azure ARO for Financial Services 
+https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aro/azure-redhat-openshift-financial-services-workloads
 
 
 **ARO References **
