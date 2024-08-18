@@ -125,6 +125,9 @@ https://www.redhat.com/en/resources/novobanco-case-study
 Exxon ARO Reference (RH Site) 
 https://www.redhat.com/en/about/press-releases/red-hat-details-benefits-energy-customer-after-migrating-workloads-hybrid-cloud-infrastructure
 
+Advanced Auto Parts using Managed OpenShift ARO OpenShift Commons Session 
+https://www.youtube.com/watch?v=2UDF4UHyZAw
+
 Campari ARO reference IBM Consulting (IBM site) 
 https://www.ibm.com/case-studies/campari-group
 
@@ -231,8 +234,6 @@ IBM Software on ARO:
 
 General Public Blog on Cloud Pak on Azure Red Hat OpenShift (ARO)
 https://medium.com/@aliboyraz/requirements-for-installing-ibm-cloud-pak-on-azure-redhat-openshift-aro-95c384456d16
-
-
 
 IBM Maximo Reference Architecture (OpenShift)
 https://ibm.github.io/intelligent-asset-reference-architecture/Overview/
@@ -366,6 +367,9 @@ https://learn.microsoft.com/en-us/azure/developer/java/migration/migrate-websphe
 
 IBM Liberty/Websphere migrate to ARO
 https://learn.microsoft.com/en-us/azure/developer/java/ee/liberty-on-aro?tabs=deploy-console
+
+IBM ODF on Azure with ARO support
+https://www.ibm.com/docs/en/announcements/spectrum-fusion-24?mhsrc=ibmsearch_a&mhq=IBM%20Azure%20Red%20Hat%20OpenShift%20Service
 
 IBM Support Matrix 
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
