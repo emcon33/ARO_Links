@@ -238,6 +238,9 @@ https://medium.com/@aliboyraz/requirements-for-installing-ibm-cloud-pak-on-azure
 IBM Maximo Reference Architecture (OpenShift)
 https://ibm.github.io/intelligent-asset-reference-architecture/Overview/
 
+Value of Maximo on Azure (ARO) pdf
+https://www.ibm.com/downloads/cas/K5YQ9YOR
+
 IBM Maximo MAS
 Maximo on ARO - Microsoft blog
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite
