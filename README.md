@@ -374,6 +374,7 @@ https://source.redhat.com/groups/public/anz_cots_collaborations/ocp_workloads~2/
 
 Mulesoft on ARO
 https://developer.mulesoft.com/tutorials-and-howtos/anypoint-service-mesh/getting-started-with-anypoint-service-mesh-azure-red-hat-openshift/
+https://blogs.mulesoft.com/news/mulesoft-redhat-ibm-anypoint-runtime-fabric/
 
 SAS Viya on ARO In Development
 
