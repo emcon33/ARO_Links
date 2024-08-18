@@ -10,6 +10,11 @@ Microsoft and Red Hat "Turnkey" Application Platform
 </p>
 
 **Azure and Red Hat Resources**
+
+Azure Red Hat OpenShift Main Resource Page
+Comprehensive List of resources for Storage, Install, Security, Scaling and DR etc. 
+https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
+
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
