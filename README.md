@@ -368,6 +368,12 @@ https://www.ibm.com/support/pages/node/6592835
 APAC COTS Initiative (internal) 
 https://source.redhat.com/groups/public/anz_cots_collaborations/ocp_workloads~2/cots_workloads_for_openshift/grow_your_ocp_revenue_with_cots_workloads_2024_sales_initiative
 
+
+Mulesoft on ARO
+https://developer.mulesoft.com/tutorials-and-howtos/anypoint-service-mesh/getting-started-with-anypoint-service-mesh-azure-red-hat-openshift/
+
+SAS Viya on ARO In Development
+
 Other Workloads
 BMC Helix 
 Cassandra 
@@ -377,12 +383,8 @@ Finacle
 Fiserv 
 IBM Cloudant 
 Mongo DB 
-Mulesoft 
 Redis 
-SAS Viya
 ServiceNow 
-Splunk 
-Commerce 
 Temenos 
 
 **ARO ISV partners Storage and Backup**
