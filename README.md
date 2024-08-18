@@ -27,6 +27,9 @@ https://www.youtube.com/watch?v=jdMwmWiMOFU
 Azure ARO overview Video
 https://www.youtube.com/watch?v=OQuikb8VcTY
 
+Azure and Red Hat presenting ARO at OpenShift Commons (video)
+https://www.youtube.com/watch?v=8f7eoA4xW6Y
+
 Azure Red Hat OpenShift Refreshed Deck 2024 (internal) 
 https://docs.google.com/presentation/d/1J9ycw3u2Xo8PdUOMu0eLxSxzUuKPNP-GiM0uBUbyIQA/edit#slide=id.p1
 
@@ -40,7 +43,6 @@ https://events.redhat.com/profile/form/index.cfm?PKformID=0x1198597abcd&sc_cid=7
 
 Internal Red Hat Resource page (internal link) 
 https://content.redhat.com/us/en/sales-enablement/sales-plays-overview/salesplay-openshift/salestactic-openshift-cloud-services.html#tabs-91412d45a3-item-53952adf7c-tab
-
 
 Azure Sizer for Pricing supports ARO: 
 <p align="left">
@@ -77,7 +79,6 @@ ARO Image Classification App
 https://github.com/emcon33/inference-aro-workshop
 
 
-
 **ARO References **
 
 Public Microsoft ARO References (Microsoft site) 
@@ -91,6 +92,18 @@ https://customers.microsoft.com/en-ca/story/1772332670120262733-symend-azure-mac
 
 Vinci Energies ARO Reference (Microsoft Site)
 https://customers.microsoft.com/en-us/story/1340822776599403898-vinci-energies-energy-microsoft365-en-netherlands
+
+Mitsubishi Heavy Industries (Microsoft) 
+https://customers.microsoft.com/en-us/story/1623265179718411934-mitsubishi-heavy-industries-ltd-discrete-manufacturing-azure-en-japan
+
+Nationwide Building Society (Microsoft)
+https://customers.microsoft.com/en-us/story/1517814340865545424-nationwide
+
+Liberty Investments (Microsoft) 
+https://customers.microsoft.com/en-us/story/1418994276518154390-liberty-insurance-microsoft365-en-south-africa
+
+Bradesco OpenShift Commons Case Study (RH Video)
+https://www.youtube.com/watch?v=PTo2soO20Fs
 
 Vodafone ARO Reference (RH Site)
 https://www.redhat.com/en/about/videos/vodafone-nz-deploys-redhat-solutions
