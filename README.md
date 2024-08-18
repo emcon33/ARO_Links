@@ -279,6 +279,9 @@ https://www.youtube.com/watch?v=jdcJA7kDacI
 Maximo integration with Azure IoT services 
 https://medium.com/eamstream/azure-iot-integration-with-maximo-part-1-b141c4210db0
 
+TCS GSI Offering for Maximo on Azure
+https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/tataconsultancyservices-iot.tcs_maximooncloud
+
 Maximo on ARO support matrix from IBM. 
 Select IBM Maximo, Version 8.11 and Containers. Then Submit, ARO is under the container tab
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
