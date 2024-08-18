@@ -276,6 +276,9 @@ Install Maximo on ARO including an Ansible Playbook (blog) https://community.ibm
 Install Maximo on IBM Cloud (OCP) Video
 https://www.youtube.com/watch?v=jdcJA7kDacI
 
+Maximo integration with Azure IoT services 
+https://medium.com/eamstream/azure-iot-integration-with-maximo-part-1-b141c4210db0
+
 Maximo on ARO support matrix from IBM. 
 Select IBM Maximo, Version 8.11 and Containers. Then Submit, ARO is under the container tab
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
