@@ -414,7 +414,7 @@ Trilio and ARO FSI Customer Reference
 https://trilio.io/resources/case-study-trilio-for-fsis-major-bank/
 
 Veeam Kasten with ARO (direct link to PDF) 
-https://attachments-eu-west-1.insided.com/8e224fbe-2073-45dc-8f90-62bda2d56930/Kasten%20Azure%20OpenShift%20Blueprint.pdf?Expires=1723938684&Signature=tuu3itAbfVBr~U12SkyXMLROUsfC7Dmyie6Zb3e0jDVAtX38OrmclAKgYkfAbEKpLTDfEX6oh6R5qjZlsChHmHeodykl8Z4Dc~0AWtmwHnK58MmbxUCDSOB25Gbl1zmYXaC5S~1LT5lhgFrm2ln~ezeM0DhblqwYRh3JFRqd1P2U0sOtFa-HgveR5u0yEIETB6YysR7dZlVarYpfX2LTW53Gs~MmhKRjPWUgMRdYhkdCp4fErr6DbxT~pAKUs0lNjIxnhFz8ZKfVJFBnTaDoDwyDVaqDxeIlD2~c3h65cD85QOVoHLXFVpsdGhjWt~gEDmFppV2JIYnwlmaJf~XMiA__&Key-Pair-Id=APKAJODP2KXSV47YM4AA
+https://community.veeam.com/kasten-132/data-protection-for-azure-red-hat-openshift-6973
 
 ARO ODF Multi-Cloud Solution 
 https://redhat-solution-patterns.github.io/solution-pattern-multicloud-gitops-odf/solution-pattern-multicloud-gitops-odf/02-architecture.html#tech_stack
