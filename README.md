@@ -322,6 +322,9 @@ https://azuremarketplace.microsoft.com/en-us/marketplace/apps/ibm-usa-ny-armonk-
 IBM CP4D on ARO Video
 https://video.ibm.com/recorded/128365440
 
+Reference WW Internal
+https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=efd0f910-e05b-47a2-b510-c0611741d036
+
 IBM LIberty
 IBM Liberty on ARO IBM Documentation
 https://www.ibm.com/docs/en/was-liberty/core?topic=container-running-websphere-liberty-microsoft-azure
@@ -378,6 +381,9 @@ https://source.redhat.com/groups/public/anz_cots_collaborations/ocp_workloads~2/
 Mulesoft on ARO
 https://developer.mulesoft.com/tutorials-and-howtos/anypoint-service-mesh/getting-started-with-anypoint-service-mesh-azure-red-hat-openshift/
 https://blogs.mulesoft.com/news/mulesoft-redhat-ibm-anypoint-runtime-fabric/
+
+Mulesoft Reference on ARO (internal) 
+https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=25dc1134-5ae3-4184-8c4f-e8b93efdcb1b
 
 SAS Viya on ARO 
 https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations
