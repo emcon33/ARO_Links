@@ -309,6 +309,9 @@ CP4I on ARO POC (dated)
 https://rastogianshul85.medium.com/cp4i-part2-proof-of-concept-poc-learn-share-a756ca0f084f
 https://rastogianshul85.medium.com/ibm-cloud-paks-for-integration-aka-cp4i-learni-part1-dffd71f7a739
 
+IBM MQ on ARO value deck from IBM Consulting (internal) 
+https://source.redhat.com/groups/public/anz_cots_collaborations/ocp_workloads~2/cots_workloads_for_openshift/ibm_mq_ace_odm_on_aro_cp4i_cp4ba
+
 IBM CP4D
 CP4D on ARO Marketplace Listing
 https://azuremarketplace.microsoft.com/en-us/marketplace/apps/ibm-usa-ny-armonk-hq-6275750-ibmcloud-asperia.cloud-pak-for-data-ibm?tab=overview
@@ -362,6 +365,25 @@ IBM Support Matrix
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
 https://www.ibm.com/support/pages/node/6592835
 
+APAC COTS Initiative (internal) 
+https://source.redhat.com/groups/public/anz_cots_collaborations/ocp_workloads~2/cots_workloads_for_openshift/grow_your_ocp_revenue_with_cots_workloads_2024_sales_initiative
+
+Other Workloads
+BMC Helix 
+Cassandra 
+Cloudera 
+CouchDB 
+Finacle 
+Fiserv 
+IBM Cloudant 
+Mongo DB 
+Mulesoft 
+Redis 
+SAS Viya
+ServiceNow 
+Splunk 
+Commerce 
+Temenos 
 
 **ARO ISV partners Storage and Backup**
 NetApp/Azure ANF configuration with ARO
