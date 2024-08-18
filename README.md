@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=jdMwmWiMOFU
 Azure ARO overview Video
 https://www.youtube.com/watch?v=OQuikb8VcTY
 
+Azure ARO Learning Path 
+https://www.redhat.com/en/products/interactive-walkthrough/deploy-microsoft-azure-red-hat-openShift
+
 Azure and Red Hat presenting ARO at OpenShift Commons (video)
 https://www.youtube.com/watch?v=8f7eoA4xW6Y
 
@@ -80,6 +83,11 @@ https://github.com/emcon33/inference-aro-workshop
 Azure ARO for Financial Services 
 https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aro/azure-redhat-openshift-financial-services-workloads
 
+Forrester TEI Study for Hybrid Cloud Services
+https://www.redhat.com/en/resources/forrester-microsoft-azure-openshift-value-analyst-material
+
+ARO Interactive Walkthrough
+https://www.redhat.com/en/products/interactive-walkthrough/deploy-microsoft-azure-red-hat-openShift
 
 **ARO References **
 
@@ -88,6 +96,9 @@ https://customers.microsoft.com/en-us/search?sq=%22Azure%20red%20hat%20openshift
 
 Ortec Finance ARO/RHOAI Reference (Microsoft site) 
 https://customers.microsoft.com/en-us/story/1485727667262024367-ortec-finance-cloud-native-platform-azure-red-hat-openshift
+
+Ortec Finance ARO Video
+https://www.youtube.com/watch?v=5UBy-l0Vemk
 
 Symend Azure AI and ARO reference (Microsoft Site) 
 https://customers.microsoft.com/en-ca/story/1772332670120262733-symend-azure-machine-learning-professional-services-en-canada
