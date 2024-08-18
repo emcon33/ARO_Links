@@ -15,6 +15,9 @@ Azure Red Hat OpenShift Main Resource Page
 Comprehensive List of resources for Storage, Install, Security, Scaling and DR etc. 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
 
+Full Azure Red Hat Openshift (ARO) Video Series 
+https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
+
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
