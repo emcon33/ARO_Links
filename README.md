@@ -376,7 +376,8 @@ Mulesoft on ARO
 https://developer.mulesoft.com/tutorials-and-howtos/anypoint-service-mesh/getting-started-with-anypoint-service-mesh-azure-red-hat-openshift/
 https://blogs.mulesoft.com/news/mulesoft-redhat-ibm-anypoint-runtime-fabric/
 
-SAS Viya on ARO In Development
+SAS Viya on ARO 
+https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations
 
 Other Workloads
 BMC Helix 
