@@ -368,9 +368,12 @@ IBM Support Matrix
 https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html
 https://www.ibm.com/support/pages/node/6592835
 
+
+
+**ARO ISV partners Storage and Backup**
+
 APAC COTS Initiative (internal) 
 https://source.redhat.com/groups/public/anz_cots_collaborations/ocp_workloads~2/cots_workloads_for_openshift/grow_your_ocp_revenue_with_cots_workloads_2024_sales_initiative
-
 
 Mulesoft on ARO
 https://developer.mulesoft.com/tutorials-and-howtos/anypoint-service-mesh/getting-started-with-anypoint-service-mesh-azure-red-hat-openshift/
@@ -378,21 +381,8 @@ https://blogs.mulesoft.com/news/mulesoft-redhat-ibm-anypoint-runtime-fabric/
 
 SAS Viya on ARO 
 https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations
+https://pronteff.com/using-sas-viya-with-openshift-reference-architecture/
 
-Other Workloads
-BMC Helix 
-Cassandra 
-Cloudera 
-CouchDB 
-Finacle 
-Fiserv 
-IBM Cloudant 
-Mongo DB 
-Redis 
-ServiceNow 
-Temenos 
-
-**ARO ISV partners Storage and Backup**
 NetApp/Azure ANF configuration with ARO
 https://cloud.redhat.com/experts/aro/trident/
 
