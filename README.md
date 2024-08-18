@@ -18,6 +18,9 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
 Full Azure Red Hat Openshift (ARO) Video Series 
 https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
 
+Next Virtual Workshop Sept 18, 2024 (registration) 
+https://events.redhat.com/profile/form/index.cfm?PKformID=0x1198597abcd&sc_cid=7015Y0000048QBXQA2
+
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
@@ -35,14 +38,10 @@ https://docs.google.com/presentation/d/1J9ycw3u2Xo8PdUOMu0eLxSxzUuKPNP-GiM0uBUby
 
 ARO RHPDS Demo: (internal) https://demo.redhat.com/catalog?item=babylon-catalog-prod/azure-gpte.open-environment-aro4-sub.prod&utm_source=webapp&utm_medium=share-link
 
-Next Virtual Workshop Sept 18, 2024 (registration) 
-https://events.redhat.com/profile/form/index.cfm?PKformID=0x1198597abcd&sc_cid=7015Y0000048QBXQA2
-
-
-**ARO Azure Resources **
-
 Internal Red Hat Resource page (internal link) 
 https://content.redhat.com/us/en/sales-enablement/sales-plays-overview/salesplay-openshift/salestactic-openshift-cloud-services.html#tabs-91412d45a3-item-53952adf7c-tab
+
+**ARO Azure Resources **
 
 Azure Sizer for Pricing supports ARO: 
 <p align="left">
