@@ -21,6 +21,9 @@ https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
 Next Virtual Workshop Sept 18, 2024 (registration) 
 https://events.redhat.com/profile/form/index.cfm?PKformID=0x1198597abcd&sc_cid=7015Y0000048QBXQA2
 
+IBM Software Modernization on ARO workshop 10/29/24
+https://events.redhat.com/profile/form/index.cfm?PKformID=0x1221606abcd
+
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
