@@ -160,6 +160,9 @@ https://learn.microsoft.com/en-us/azure/openshift/
 Support Responsibilities: 
 Customer Support Matrix: https://learn.microsoft.com/en-us/azure/openshift/responsibility-matrix
 
+ARO supported worker types 
+https://learn.microsoft.com/en-us/azure/openshift/support-policies-v4
+
 ARO Architecture: Azure Site
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-red-hat-openshift-reference-architecture-amp-reference/ba-p/3470115
 
