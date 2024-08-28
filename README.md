@@ -288,7 +288,11 @@ https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-applicatio
 Maximo on Air Gapped ARO (air gapped ARO) 
 https://community.ibm.com/community/user/asset-facilities/blogs/saurabh-rajguru/2024/02/27/mas-on-private-aro
 
-Install Maximo on ARO including an Ansible Playbook (blog) https://community.ibm.com/community/user/asset-facilities/blogs/sudhir-jain/2023/12/01/mas-on-aro
+Install Maximo on ARO including an Ansible Playbook (blog) 
+https://community.ibm.com/community/user/asset-facilities/blogs/sudhir-jain/2023/12/01/mas-on-aro
+
+Workshop Maximo on ARO Screen shots
+https://github.com/rh-mobb/documentation/blob/aro-mas/content/aro/mas/index.md
 
 Install Maximo on IBM Cloud (OCP) Video
 https://www.youtube.com/watch?v=jdcJA7kDacI
