@@ -21,6 +21,9 @@ https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
 Next Virtual Workshop Sept 18, 2024 (registration) 
 https://events.redhat.com/profile/form/index.cfm?PKformID=0x1198597abcd&sc_cid=7015Y0000048QBXQA2
 
+Next IBM Software on ARO Workshop Oct 29th, 2024
+https://events.redhat.com/profile/form/index.cfm?PKformID=0x1221606abcd&sc_cid=7015Y0000048Ud8QAE
+
 IBM Software Modernization on ARO workshop 10/29/24
 https://events.redhat.com/profile/form/index.cfm?PKformID=0x1221606abcd
 
