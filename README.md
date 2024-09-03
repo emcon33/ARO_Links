@@ -268,7 +268,7 @@ https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deplo
 Maximo on ARO - Microsoft blog implementation 
 https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-application-suite-migration-and-modernization-with/ba-p/4123838#:~:text=MAS%20provides%20organizations%20with%20a,deploying%2C%20running%20and%20managing%20applications.
 
-Maximon on ARO IBM blog
+Maximo on ARO IBM blog
 https://community.ibm.com/community/user/asset-facilities/blogs/sudhir-jain/2023/12/01/mas-on-aro
 
 IBM Maximo on ARO IBM Blog Details on Maximo
