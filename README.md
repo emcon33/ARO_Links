@@ -323,6 +323,16 @@ https://www.ibm.com/blog/announcement/watsonx-on-microsoft-azure/
 Watsonx.ai on ARO Adobe (blog)  IBM
 https://developer.ibm.com/articles/awb-introducing-watsonx-ai-on-microsoft-azure/
 
+Watsonx.ai on ARO Reference Archtitecture 
+https://developer.ibm.com/articles/awb-introducing-watsonx-ai-on-microsoft-azure/
+
+Watsonx.ai on ARO with Azure AI Integration 
+<p align="left">
+  <a href="#"><img src="./watsonxai.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
+
 Watsonx.ai on OpenShift (ARO) IBM for Adobe
 https://newsroom.ibm.com/Blog-Adobe-and-IBM-Transforming-Customer-Experiences-with-Personalization-at-Scale,-Powered-by-AI-and-Hybrid-Cloud-Innovation
 
