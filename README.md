@@ -328,7 +328,7 @@ https://developer.ibm.com/articles/awb-introducing-watsonx-ai-on-microsoft-azure
 
 Watsonx.ai on ARO with Azure AI Integration 
 <p align="left">
-  <a href="#"><img src="./watsonxai.jpg" width="600"></a> <br />
+  <a href="#"><img src="./Watsonxai.jpg" width="600"></a> <br />
   <em> 
   </em>
 </p>
