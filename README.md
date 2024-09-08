@@ -98,6 +98,7 @@ https://www.redhat.com/en/products/interactive-walkthrough/deploy-microsoft-azur
 **ARO Workshops 
 MOBB ARO Workshop: https://microsoft.github.io/aroworkshop/
 
+Parasol RHOAI/ARO MOBB Workshop: https://github.com/rh-mobb/parasol-insurance/tree/azure-build
 Parasol RHOAI/ARO workshop Walk Through : https://rh-aiservices-bu.github.io/parasol-insurance/modules/index.html
 Parasol RHOAI Workshop GitHub: https://github.com/rh-aiservices-bu/parasol-insurance
 Parasol RHOAI/ARO add on services: https://github.com/microsoft/AzureOpenAI-with-APIM
