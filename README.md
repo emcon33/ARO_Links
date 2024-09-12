@@ -168,6 +168,8 @@ https://blog.adobe.com/en/publish/2024/05/21/generative-ai-brings-new-opportunit
 IBM Consulting and ARO
 https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/
 
+References (Internal) 
+https://docs.google.com/spreadsheets/d/1_AZ4f_8DJt8NrSsJctnYzoCEPg7FY3BRq9lkF6us_l8/edit?gid=0#gid=0
 
 **ARO Documentation **
 
