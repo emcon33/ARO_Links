@@ -111,6 +111,8 @@ Parasol RHOAI/ARO add on services: https://github.com/microsoft/AzureOpenAI-with
 
 Parasol RHOAI/ARO api add on services: https://github.com/Azure/aoai-apim
 
+OpenShift AI and Podman AI Lab workshop. 
+https://github.com/redhat-ai-services/podman-ai-lab-to-rhoai
 
 **ARO References **
 
