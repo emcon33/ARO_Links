@@ -98,6 +98,9 @@ https://www.redhat.com/en/products/interactive-walkthrough/deploy-microsoft-azur
 **ARO Workshops 
 MOBB ARO Workshop: https://microsoft.github.io/aroworkshop/
 
+RHPD Lab Parasol on RHOAI/ARO (Internal) 
+https://demo.redhat.com/catalog?item=babylon-catalog-prod/azure-gpte.ocp4-rhoai-aro-parasol.prod&utm_source=webapp&utm_medium=share-link
+
 Parasol RHOAI/ARO MOBB Workshop: https://github.com/rh-mobb/parasol-insurance/tree/azure-build
 
 Parasol RHOAI/ARO workshop Walk Through : https://rh-aiservices-bu.github.io/parasol-insurance/modules/index.html
