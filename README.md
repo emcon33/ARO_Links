@@ -95,6 +95,9 @@ https://www.redhat.com/en/resources/forrester-microsoft-azure-openshift-value-an
 ARO Interactive Walkthrough
 https://www.redhat.com/en/products/interactive-walkthrough/deploy-microsoft-azure-red-hat-openShift
 
+Ansible on ARO demo Video 
+https://www.youtube.com/watch?v=PqiTE5Uh3Jk
+
 **ARO Workshops 
 MOBB ARO Workshop: https://microsoft.github.io/aroworkshop/
 
