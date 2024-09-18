@@ -187,7 +187,10 @@ https://learn.microsoft.com/en-us/azure/openshift/
 Support Responsibilities: 
 Customer Support Matrix: https://learn.microsoft.com/en-us/azure/openshift/responsibility-matrix
 
-ARO supported worker types 
+ARO supported versions of OCP
+https://learn.microsoft.com/en-us/azure/openshift/support-lifecycle
+
+ARO supported worker types Lifecycle
 https://learn.microsoft.com/en-us/azure/openshift/support-policies-v4
 
 ARO Architecture: Azure Site
