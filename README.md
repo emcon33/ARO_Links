@@ -279,6 +279,12 @@ IBM Software on ARO:
 General Public Blog on Cloud Pak on Azure Red Hat OpenShift (ARO)
 https://medium.com/@aliboyraz/requirements-for-installing-ibm-cloud-pak-on-azure-redhat-openshift-aro-95c384456d16
 
+IBM and Microsoft Blog on Why Maximo on ARO (Microsoft Version)
+https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-application-suite-migration-and-modernization-with/ba-p/4123838
+
+IBM, RH and Microsoft Blog on why Maximo on ARO (IBM Version) 
+https://www.ibm.com/blog/maximo-application-suite-migration-and-modernization-with-red-hat-openshift-on-azure/
+
 IBM Maximo Reference Architecture (OpenShift)
 https://ibm.github.io/intelligent-asset-reference-architecture/Overview/
 
