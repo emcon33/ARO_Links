@@ -95,6 +95,9 @@ https://www.redhat.com/en/products/interactive-walkthrough/deploy-microsoft-azur
 Ansible on ARO demo Video 
 https://www.youtube.com/watch?v=PqiTE5Uh3Jk
 
+ARO ACO details
+https://learn.microsoft.com/en-us/partner-center/billing/azure-credit-offer-balance
+
 **ARO Workshops 
 MOBB ARO Workshop: https://microsoft.github.io/aroworkshop/
 
