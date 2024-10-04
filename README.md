@@ -269,6 +269,8 @@ https://learn.microsoft.com/en-us/training/modules/introduction-to-red-hat-azure
 Drupal on OpenShift/ARO
 https://www.drupal.org/node/1888960
 
+Terraforming ARO with Github Actions 
+https://www.redhat.com/en/blog/terraforming-azure-red-hat-openshift-aro-with-github-actions
 
 **IBM Software on ARO **
 
