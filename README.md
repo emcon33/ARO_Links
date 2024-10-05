@@ -384,6 +384,9 @@ https://developer.ibm.com/articles/awb-watsonx-governance-responsible-transparen
 IBM Watsonx.governance on Azure Marketplace
 https://azuremarketplace.microsoft.com/en-us/marketplace/apps/ibm-usa-ny-armonk-hq-6275750-ibmcloud-asperia.watsonx-governance-ibm?tab=Overview&utm_source=ibm_developer&utm_content=in_content_link
 
+Watsonx.data Install (ARO and Others 
+https://www.ibm.com/docs/en/watsonx/watsonxdata/1.0.x?topic=cluster-installing-red-hat-openshift-container-platform
+
 IBM CP4I 
 CP4I on Azure with ARO
 Blog:https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ibm-cloud-pak-for-integration-on-azure-red-hat-openshift-now/ba-p/4180542
