@@ -24,6 +24,9 @@ https://events.redhat.com/profile/form/index.cfm?PKformID=0x1221606abcd
 Next Virtual ARO workshop for RHOAI and ARO is 11/13/24
 https://events.redhat.com/profile/form/index.cfm?PKformID=0x1259264abcd&sc_cid=7015Y0000048covQAA&elqTrackId=2b2310d612e948e084a722e2a1b18ce9&elqTrack=true
 
+ARO Ignite Session 11/19-11/22 
+https://ignite.microsoft.com/en-US/sessions/THRFP760?source=sessions
+
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
