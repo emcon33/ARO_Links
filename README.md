@@ -428,6 +428,9 @@ https://azuremarketplace.microsoft.com/en-us/marketplace/apps/ibm-usa-ny-armonk-
 IBM Guardium Insights on ARO
 https://www.ibm.com/docs/en/guardium-insights/3.2.x?topic=scenarios-manual-installation-azure-aro
 
+Installing CP4 AI Ops on ARO documentation 
+https://www.ibm.com/docs/en/cloud-paks/cloud-pak-aiops/4.6.1?topic=platforms-installing-azure-red-hat-openshift
+
 IBM Cloud Pak for Business Automation on ARO  CP4BA 
 https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/23.0.1?topic=automation-planning
 https://github.com/apollo-business-automation/ibm-cp4ba-demo-deployment
