@@ -27,6 +27,10 @@ https://events.redhat.com/profile/form/index.cfm?PKformID=0x1259264abcd&sc_cid=7
 ARO Ignite Session 11/19-11/22 
 https://ignite.microsoft.com/en-US/sessions/THRFP760?source=sessions
 
+ARO Ignite After Party Registration 11/19
+https://events.redhat.com/profile/form/index.cfm?PKformID=0x1285693abcd&sc_cid=7015Y0000048QcnQAE
+
+
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
