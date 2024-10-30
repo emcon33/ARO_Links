@@ -417,8 +417,7 @@ https://video.ibm.com/recorded/128365440
 Reference WW Internal
 https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=efd0f910-e05b-47a2-b510-c0611741d036
 
-IBM LIberty
-IBM Liberty on ARO IBM Documentation
+IBM Liberty Websphere on ARO IBM Documentation
 https://www.ibm.com/docs/en/was-liberty/core?topic=container-running-websphere-liberty-microsoft-azure
 
 IBM Liberty on ARO Azure  Documentation
