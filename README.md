@@ -217,7 +217,7 @@ Specific ARO Reference (Microsoft site)
 https://customers.microsoft.com/en-us/story/1485727667262024367-ortec-finance-cloud-native-platform-azure-red-hat-openshift
 
 Microsoft Self Paced ARO (Microsoft site) 
-https://microsoft.github.io/aroworkshop/
+https://www.redhat.com/en/products/interactive-walkthrough/deploy-microsoft-azure-red-hat-openShift
 
 Ansible with ARO deployment video
 https://www.youtube.com/watch?v=d701iQ2v2J0
