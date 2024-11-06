@@ -349,6 +349,10 @@ https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduc
 IBM Tririga on ARO
 https://azuremarketplace.microsoft.com/en-us/marketplace/apps/aad.ibmtririgaoncloud?tab=Overview
 
+IBM CP4BA on Azure Red Hat Openshift partner video 
+https://www.youtube.com/watch?v=i5kak-F_mPo
+
+
 IBM Watsonx 
 Watsonx.ai on ARO (Blog) Microsoft 
 https://www.ibm.com/blog/announcement/watsonx-on-microsoft-azure/
