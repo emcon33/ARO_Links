@@ -30,6 +30,9 @@ https://ignite.microsoft.com/en-US/sessions/THRFP760?source=sessions
 ARO Ignite After Party Registration 11/19
 https://events.redhat.com/profile/form/index.cfm?PKformID=0x1285693abcd&sc_cid=7015Y0000048QcnQAE
 
+Past IBM Software on ARO Oct 29th Webinar recording. 
+https://www.youtube.com/watch?v=lJsamfisK8c
+
 
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
