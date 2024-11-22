@@ -18,21 +18,14 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
 Full Azure Red Hat Openshift (ARO) Video Series 
 https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
 
-Next Virtual ARO workshop for RHOAI and ARO is 11/13/24
-https://events.redhat.com/profile/form/index.cfm?PKformID=0x1259264abcd&sc_cid=7015Y0000048covQAA&elqTrackId=2b2310d612e948e084a722e2a1b18ce9&elqTrack=true
-
 Azure AI on ARO workshop Blog Series
 https://www.redhat.com/en/blog/accelerating-ai-driven-solutions-azure-red-hat-openshift
 
-ARO Ignite Session 11/19-11/22 
-https://ignite.microsoft.com/en-US/sessions/THRFP760?source=sessions
+AI on ARO session from Ignite Recording 
+[https://ignite.microsoft.com/en-US/sessions/THRFP760?source=sessions](https://ignite.microsoft.com/en-US/sessions/ODFP971?source=/speakers/7b2a6cdc-4539-4998-a078-a2b5742d2286)
 
-ARO Ignite After Party Registration 11/19
-https://events.redhat.com/profile/form/index.cfm?PKformID=0x1285693abcd&sc_cid=7015Y0000048QcnQAE
-
-Past IBM Software on ARO Oct 29th Webinar recording. 
+Past IBM Software Modernization on ARO Oct 29th Webinar recording. 
 https://www.youtube.com/watch?v=lJsamfisK8c
-
 
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
