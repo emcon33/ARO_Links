@@ -358,6 +358,8 @@ https://azuremarketplace.microsoft.com/en-us/marketplace/apps/aad.ibmtririgaoncl
 IBM CP4BA on Azure Red Hat Openshift partner video 
 https://www.youtube.com/watch?v=i5kak-F_mPo
 
+IBM CP4D on ARO
+https://cp4dazuremarketplacedoc.blob.core.windows.net/ibmcp4dazuremarketplace/CP4D_MS_ARO_Deployment_Guide.pdf
 
 IBM Watsonx 
 Watsonx.ai on ARO (Blog) Microsoft 
