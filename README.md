@@ -225,6 +225,9 @@ https://github.com/rh-mobb/ansible-aro
 ARO deployment Video
 Here is a quick, 4 min demo, of deploying an ARO cluster in the Azure portal: https://www.youtube.com/watch?v=iY66MONBfVQ&t=1s
 
+ARO Cost Management
+https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-red-hat-openshift#discount-applies-to-different-vm-sizes
+
 **ARO Azure Integration **
 Integrate ARO with Azure DevOps (Blog and Video) 
 https://medium.com/@bshayr29/use-microsoft-azure-devops-pipeline-with-red-hat-openshift-282b85cb1737
