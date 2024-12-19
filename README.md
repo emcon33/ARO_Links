@@ -366,6 +366,9 @@ IBM Watsonx
 Watsonx.ai on ARO (Blog) Microsoft 
 https://www.ibm.com/blog/announcement/watsonx-on-microsoft-azure/
 
+IBM Watsonx on Azure Sizing
+https://developer.ibm.com/articles/awb-introducing-watsonx-ai-on-microsoft-azure/
+
 Watsonx.ai on ARO Adobe (blog)  IBM
 https://developer.ibm.com/articles/awb-introducing-watsonx-ai-on-microsoft-azure/
 
