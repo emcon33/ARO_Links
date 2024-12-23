@@ -54,6 +54,12 @@ https://docs.google.com/presentation/d/1J9ycw3u2Xo8PdUOMu0eLxSxzUuKPNP-GiM0uBUby
 
 ARO RHPDS Demo: (internal) https://demo.redhat.com/catalog?item=babylon-catalog-prod/azure-gpte.open-environment-aro4-sub.prod&utm_source=webapp&utm_medium=share-link
 
+ARO FAQ
+https://learn.microsoft.com/en-us/azure/openshift/openshift-faq
+
+Azure ARO Analyst Paper
+https://www.redhat.com/en/engage/forrester-microsoft-azure-openshift-value-analyst-material
+
 Internal Red Hat Resource page (internal link) 
 https://content.redhat.com/us/en/sales-enablement/sales-plays-overview/salesplay-openshift/salestactic-openshift-cloud-services.html#tabs-91412d45a3-item-53952adf7c-tab
 
@@ -66,17 +72,21 @@ Azure Sizer for Pricing supports ARO:
   </em>
 </p>
 
-ARO FAQ
-https://learn.microsoft.com/en-us/azure/openshift/openshift-faq
 
-Azure ARO Analyst Paper
-https://www.redhat.com/en/engage/forrester-microsoft-azure-openshift-value-analyst-material
-
-ARO Pricing Calculator
+Public ARO Pricing Calculator
 https://azure.microsoft.com/en-us/pricing/calculator/
 
-ARO Public Pricing 
+Public ARO Public Pricing 
 https://azure.microsoft.com/en-us/pricing/details/openshift/
+
+Internal Red Hat Sizing on ARO	(Internal RH) 
+https://docs.google.com/document/d/1V7ENV5mu6wruU8ToNe_Q1Y9fLx0dsKXm412AoRkAJTQ/edit?tab=t.0
+
+Internal Doc Buying ARO RI's (Internal RH) 	
+https://docs.google.com/document/d/1_4tygeY21iPTUHGiwpPzOILJVDv7GBB2z630G8P462g/edit?tab=t.0
+
+Internal Late Quarter Booking Credit Process ARO (Internal RH) 	
+https://docs.google.com/document/d/1jHFaPQsLqHm6JGkcEppWt-0FZ7SYNTUDHYT5qyFulSQ/edit?tab=t.0
 
 ARO Cost Optimization (video)
 https://www.youtube.com/watch?v=nl3whsKMdnE&t=76s
