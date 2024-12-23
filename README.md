@@ -18,11 +18,11 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
 Azure Red Hat OpenShift Azure Public Training      
 https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/
 
-Full Azure Red Hat Openshift (ARO) Video Series 
+Full Azure Red Hat Openshift (ARO) Video Series     
 https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
 
-Latest Blogs and Workshop Recordings 
-Azure AI on ARO workshop Blog Series 11/12/24
+Latest Blogs and Workshop Recordings        
+Azure AI on ARO workshop Blog Series 11/12/24      
 https://www.redhat.com/en/blog/accelerating-ai-driven-solutions-azure-red-hat-openshift
 
 AI on ARO session from Ignite Recording 11/19/24
@@ -37,8 +37,9 @@ https://www.youtube.com/watch?v=lJsamfisK8c
 Next Workshop Virtual Invitations for North America 
 TBS
 
-General ARO Content 
-Azure ARO overview Video short
+General ARO Content      
+
+Azure ARO overview Video short      
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
 Azure ARO Workloads (AI, Cloud Pak(s), NVIDIA) 
