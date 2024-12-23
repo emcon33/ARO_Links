@@ -15,25 +15,29 @@ Azure Red Hat OpenShift Main Resource Page
 Comprehensive List of resources for Storage, Install, Security, Scaling and DR etc. 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
 
-Azure Red Hat OpenShift Azure Public Training
+Azure Red Hat OpenShift Azure Public Training      
 https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/
 
 Full Azure Red Hat Openshift (ARO) Video Series 
 https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
 
-Azure AI on ARO workshop Blog Series
+Latest Blogs and Workshop Recordings 
+Azure AI on ARO workshop Blog Series 11/12/24
 https://www.redhat.com/en/blog/accelerating-ai-driven-solutions-azure-red-hat-openshift
 
-AI on ARO session from Ignite Recording 
+AI on ARO session from Ignite Recording 11/19/24
 [https://ignite.microsoft.com/en-US/sessions/THRFP760?source=sessions](https://ignite.microsoft.com/en-US/sessions/ODFP971?source=/speakers/7b2a6cdc-4539-4998-a078-a2b5742d2286)
 
-OpenAI, ChatGPT, RHOAI on ARO blog by desari 
+OpenAI, ChatGPT, RHOAI on ARO blog by desari 12/4/24
 https://cloud.redhat.com/experts/rhoai/aro-rag/
 
-
-Webinar IBM Software Modernization on ARO Oct 29th Webinar recording. 
+Webinar IBM Software Modernization on ARO Webinar recording. 10/29/24
 https://www.youtube.com/watch?v=lJsamfisK8c
 
+Next Workshop Virtual Invitations for North America 
+TBS
+
+General ARO Content 
 Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
