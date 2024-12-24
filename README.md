@@ -31,6 +31,11 @@ AI on ARO session from Ignite Recording 11/19/24
 OpenAI, ChatGPT, RHOAI on ARO blog by desari 12/4/24
 https://cloud.redhat.com/experts/rhoai/aro-rag/
 
+Azure Red Hat OpenShift Public Inference Workshop with Resnet50      
+https://github.com/emcon33/inference-aro-workshop
+https://github.com/emcon33/inference-aro-frontend
+
+
 Webinar IBM Software Modernization on ARO Webinar recording. 10/29/24
 https://www.youtube.com/watch?v=lJsamfisK8c
 
