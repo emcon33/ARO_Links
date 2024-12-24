@@ -326,6 +326,7 @@ Public IBM Software Support Matrix (Maximo Example) Select IBM Maximo, Version 8
 Internal IBM Sofware on Azure Red Hat OpenShift Support Marix (Inernal Red Hat XLS) 
 https://docs.google.com/spreadsheets/d/1E5ndWx_TtRBNAyINqefZK9xt-G2XGWWNwti5bCGLDNY/edit#gid=1114692282
 
+
 IBM Maximo (MAS) Content
 IBM and Microsoft Blog on Why Maximo on ARO (Microsoft Version)
 https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-application-suite-migration-and-modernization-with/ba-p/4123838
@@ -471,8 +472,9 @@ https://azuremarketplace.microsoft.com/en-us/marketplace/apps/ibm-usa-ny-armonk-
 IBM Guardium Insights on ARO
 https://www.ibm.com/docs/en/guardium-insights/3.2.x?topic=scenarios-manual-installation-azure-aro
 
-Installing CP4AI Ops on ARO documentation 
+Installing CP4AIOps on ARO documentation 
 https://www.ibm.com/docs/en/cloud-paks/cloud-pak-aiops/4.6.1?topic=platforms-installing-azure-red-hat-openshift
+https://www.ibm.com/docs/en/cloud-paks/cloud-pak-aiops/4.8.0?topic=platforms-installing-aro
 
 IBM Cloud Pak for Business Automation on ARO  CP4BA 
 https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/23.0.1?topic=automation-planning
