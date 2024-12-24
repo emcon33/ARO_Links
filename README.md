@@ -89,19 +89,19 @@ Azure Sizer for Pricing supports ARO:
 </p>
 
 
-Public ARO Pricing Calculator
+Public ARO Pricing Calculator (export as xls and save as a link) 
 https://azure.microsoft.com/en-us/pricing/calculator/
 
-Public ARO Public Pricing 
+Public ARO Public Pricing per hour per instance type 
 https://azure.microsoft.com/en-us/pricing/details/openshift/
 
-Internal Red Hat Sizing on ARO	(Internal RH) 
+Internal Red Hat Sizing on ARO	(Internal RH)        
 https://docs.google.com/document/d/1V7ENV5mu6wruU8ToNe_Q1Y9fLx0dsKXm412AoRkAJTQ/edit?tab=t.0
 
-Internal Doc Buying ARO RI's (Internal RH) 	
+Internal Doc Buying ARO RI's (Internal RH) 	      
 https://docs.google.com/document/d/1_4tygeY21iPTUHGiwpPzOILJVDv7GBB2z630G8P462g/edit?tab=t.0
 
-Internal Late Quarter Booking Credit Process ARO (Internal RH) 	
+Internal Late Quarter Booking Credit Process ARO (Internal RH) 	       
 https://docs.google.com/document/d/1jHFaPQsLqHm6JGkcEppWt-0FZ7SYNTUDHYT5qyFulSQ/edit?tab=t.0
 
 ARO Cost Optimization (video)
@@ -113,7 +113,7 @@ http://red.ht/Level-Up
 ARO Level up POC Program (internal)
 https://source.redhat.com/groups/public/crosssellupsell/level_up_openshift/level_up_cloud_services
 
-ARO Workshop (MOBB)
+ARO Managed OpenShift Black Belt Workshop (MOBB)
 https://microsoft.github.io/aroworkshop/
 
 ARO Image Classification App
