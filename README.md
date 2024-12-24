@@ -327,14 +327,25 @@ Internal IBM Sofware on Azure Red Hat OpenShift Support Marix (Inernal Red Hat X
 https://docs.google.com/spreadsheets/d/1E5ndWx_TtRBNAyINqefZK9xt-G2XGWWNwti5bCGLDNY/edit#gid=1114692282
 
 
-IBM Maximo (MAS) Content
-IBM and Microsoft Blog on Why Maximo on ARO (Microsoft Version)
+IBM Maximo (MAS) Content    
+
+Maximo MAS on ARO Reference Architecture 
+<p align="left">
+  <a href="#"><img src="./maximoref.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
+
+Maximo on ARO Quick Azure Branded Documentation         
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite
+
+IBM and Microsoft Blog on Why Maximo on ARO (Microsoft Version)       
 https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-application-suite-migration-and-modernization-with/ba-p/4123838
 
 IBM, RH and Microsoft Blog on why Maximo on ARO (IBM Version) 
 https://www.ibm.com/blog/maximo-application-suite-migration-and-modernization-with-red-hat-openshift-on-azure/
 
-IBM Maximo Reference Architecture (OpenShift)
+IBM Maximo Reference Architecture for Use Cases from IBM 
 https://ibm.github.io/intelligent-asset-reference-architecture/Overview/
 
 Value of Maximo on Azure (ARO) pdf
@@ -350,8 +361,6 @@ https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-applicatio
 Maximo on ARO IBM blog
 https://community.ibm.com/community/user/asset-facilities/blogs/sudhir-jain/2023/12/01/mas-on-aro
 
-Maximo on ARO Quick Azure Branded Documentation 
-https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite
 
 Install Maximo on ARO by Ansible Playbook (Red Hat Documentation) 
 https://cloud.redhat.com/experts/aro/mas/
