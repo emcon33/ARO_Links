@@ -33,7 +33,7 @@ https://cloud.redhat.com/experts/rhoai/aro-rag/
 
 Azure Red Hat OpenShift Public Inference Workshop with Resnet50 
 <p align="left">
-  <a href="#"><img src="./aroinference.jpg" width="600"></a> <br />
+  <a href="#"><img src="./aroinference.jpeg" width="600"></a> <br />
   <em> 
   </em>
 </p>
