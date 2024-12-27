@@ -549,7 +549,7 @@ https://azuremarketplace.microsoft.com/en-us/marketplace/apps/redhat.rh-acs-acm-
 Native Azure AI services List                                     
 https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services
 
-Microsoft and Red Hat "Turnkey" Application Platform 
+Native Azure AI Services that integrate wit Azure Red Hat OpenShift 
 <p align="left">
   <a href="#"><img src="./azureai.jpg" width="600"></a> <br />
   <em> 
