@@ -615,8 +615,11 @@ https://investor.purestorage.com/news-and-events/press-releases/press-release-de
 Trilio and ARO Data Protection 
 https://trilio.io/resources/azure-red-hat-openshift/
 
-Trilio and ARO FSI Customer Reference
+Trilio and ARO for a large FSI Customer Reference
 https://trilio.io/resources/case-study-trilio-for-fsis-major-bank/
+
+ARO Cross Cloud DR Proof of Concept with Trilio
+https://connect.redhat.com/blog/disaster-recovery-minecraft-server-rosa-aro-0
 
 Veeam Kasten with ARO (direct link to PDF) 
 https://community.veeam.com/kasten-132/data-protection-for-azure-red-hat-openshift-6973
@@ -624,8 +627,7 @@ https://community.veeam.com/kasten-132/data-protection-for-azure-red-hat-openshi
 ARO ODF Multi-Cloud Solution 
 https://redhat-solution-patterns.github.io/solution-pattern-multicloud-gitops-odf/solution-pattern-multicloud-gitops-odf/02-architecture.html#tech_stack
 
-ARO Cross Cloud DR Proof of Concept
-https://connect.redhat.com/blog/disaster-recovery-minecraft-server-rosa-aro-0
+
 
 
 
