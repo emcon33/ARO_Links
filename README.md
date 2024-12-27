@@ -288,6 +288,18 @@ https://learn.microsoft.com/en-us/training/modules/introduction-to-red-hat-azure
 Terraforming ARO with Github Actions 
 https://www.redhat.com/en/blog/terraforming-azure-red-hat-openshift-aro-with-github-actions
 
+Microsoft Support FAQ
+https://docs.microsoft.com/en-us/azure/openshift/openshift-faq#how-do-i-handle-cluster-upgrades
+
+Azure ARO lifecycles: 
+https://docs.microsoft.com/en-us/azure/openshift/support-lifecycle
+
+Azure ARO Cost Management (video)
+https://www.youtube.com/watch?v=nl3whsKMdnE
+
+Azure ARO Networking
+https://learn.microsoft.com/en-us/azure/openshift/concepts-networking#networking-for-azure-red-hat-openshift
+
 **IBM Software Modernization on ARO Resoures **
 
 IBM Software on ARO: 
@@ -565,7 +577,13 @@ https://meatybytes.io/posts/openshift/ocp-features/ai-ml/chatops/
 
 **Azure Red Hat OpenShift Supported ISV partners Storage and Backup Options**
 
-APAC COTS Initiative Multi-Cloud (internal) 
+<p align="left">
+  <a href="#"><img src="./isv.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
+
+Red Hat APAC Commercial Software Support Initiative Multi-Cloud Collateral (internal) 
 https://source.redhat.com/groups/public/anz_cots_collaborations/ocp_workloads~2/cots_workloads_for_openshift/grow_your_ocp_revenue_with_cots_workloads_2024_sales_initiative
 
 Drupal on OpenShift ARO (provisonal support) 
@@ -610,19 +628,7 @@ ARO Cross Cloud DR Proof of Concept
 https://connect.redhat.com/blog/disaster-recovery-minecraft-server-rosa-aro-0
 
 
-**Microsoft ARO Technical Resources**
 
-Microsoft Support FAQ
-https://docs.microsoft.com/en-us/azure/openshift/openshift-faq#how-do-i-handle-cluster-upgrades
-
-Azure ARO lifecycles: 
-https://docs.microsoft.com/en-us/azure/openshift/support-lifecycle
-
-Azure ARO Cost Management (video)
-https://www.youtube.com/watch?v=nl3whsKMdnE
-
-Azure ARO Networking
-https://learn.microsoft.com/en-us/azure/openshift/concepts-networking#networking-for-azure-red-hat-openshift
 
 
 
