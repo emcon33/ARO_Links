@@ -305,7 +305,7 @@ https://www.drupal.org/node/1888960
 Terraforming ARO with Github Actions 
 https://www.redhat.com/en/blog/terraforming-azure-red-hat-openshift-aro-with-github-actions
 
-**IBM Software on ARO **
+**IBM Software Modernization on ARO Resoures **
 
 IBM Software on ARO: 
 <p align="left">
@@ -514,6 +514,58 @@ https://learn.microsoft.com/en-us/azure/developer/java/ee/liberty-on-aro?tabs=de
 
 IBM ODF on Azure with ARO support
 https://www.ibm.com/docs/en/announcements/spectrum-fusion-24?mhsrc=ibmsearch_a&mhq=IBM%20Azure%20Red%20Hat%20OpenShift%20Service
+
+
+Artificial Intelligence on ARO Resources ******   
+
+Azure AI on ARO workshop Blog Series 11/12/24
+https://www.redhat.com/en/blog/accelerating-ai-driven-solutions-azure-red-hat-openshift
+
+Generative AI and ARO Blog      
+https://www.redhat.com/en/blog/how-do-you-operationalize-generative-ai-consistently-and-scale
+
+AI on ARO session from Ignite Live Session and Recording 11/19/24   
+https://ignite.microsoft.com/en-US/sessions/THRFP760?source=sessions
+
+Azure OpenAI ChatGPT with RHOAI on ARO blog by desari 12/4/24       
+https://cloud.redhat.com/experts/rhoai/aro-rag/
+
+Azure Red Hat OpenShift Public Inference Workshop with Resnet50
+https://github.com/emcon33/inference-aro-workshop
+https://github.com/emcon33/inference-aro-frontend
+
+AI enabled Apps on ARO Deck (RH internal)     
+https://docs.google.com/presentation/d/1jjwWUoYGvQ4RCD9wmBEx27eLZN14QFZnQn8yVsQxUME/edit#slide=id.g2e92057eb95_0_3993
+
+RHOAI on Azure listing in Azure Marketplace    
+https://azuremarketplace.microsoft.com/en-us/marketplace/apps/redhat.rh-acs-acm-sub?tab=PlansAndPrice
+
+Azure Open AI ChatGPT on ARO Chatbot Series blog and video
+https://github.com/rcarrat-AI/aro-azureopenai-gitops
+https://www.redhat.com/en/blog/gitops-action-building-and-deploying-ai-chatbots-azure-red-hat-openshift-azure-openai
+
+OpenAI ChatGPT on ARO Deck and Video (RH internal) 
+https://docs.google.com/presentation/d/1uSP6tYXZ5Wbvz0FPoYzVOzKt4oImhoKVSI78_wxattM/edit
+https://drive.google.com/file/d/1KvoqerybnNRgh3x5qcyVcsoN8EQJmkYJ/view
+
+Azure OpenAI ChatGPT on ARO Public Video  
+https://build.microsoft.com/en-US/sessions/9fbf0ce1-fa0e-4976-9b83-2e4e69e39501
+https://www.youtube.com/watch?v=4Ebw2LwNQOY
+
+Azure OpenAI ChatGPT and ARO with K8sGPT
+https://medium.com/@somnath.2301/kubernetes-insights-elevating-kubernetes-health-analysis-in-azure-red-hat-openshift-with-1b5efc3cc53a
+
+Azure OpenAI ChatGPT for ChatOps on ARO    
+https://meatybytes.io/posts/openshift/ocp-features/ai-ml/chatops/
+
+Azure AI Studio with RHOAI/ARO (RH Internal) 
+https://drive.google.com/drive/u/0/folders/1yVovgePsCZ-oscKz88CFPeiplATEFftC
+
+
+Native Azure AI services List 
+https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services
+
+
 
 
 
