@@ -265,22 +265,8 @@ https://cloud.redhat.com/learning/learn:microsoft-azure-red-hat-openshift-explai
 Integrate ARO with Azure DevOps (MOBB doc) 
 https://cloud.redhat.com/experts/misc/azure-dev-ops-with-managed-openshift/
 
-ARO OpenAI Chatbot 
-https://github.com/rcarrat-AI/aro-azureopenai-gitops
-https://www.redhat.com/en/blog/gitops-action-building-and-deploying-ai-chatbots-azure-red-hat-openshift-azure-openai
-
 Azure Red Hat OpenShift Video Series
 https://www.youtube.com/watch?v=H6PTZ6OXjkE&list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
-
-OpenAI and ARO Video
-https://build.microsoft.com/en-US/sessions/9fbf0ce1-fa0e-4976-9b83-2e4e69e39501
-https://www.youtube.com/watch?v=4Ebw2LwNQOY
-
-OpenAI and ARO with K8sGPT
-https://medium.com/@somnath.2301/kubernetes-insights-elevating-kubernetes-health-analysis-in-azure-red-hat-openshift-with-1b5efc3cc53a
-
-ChatOps on ARO with OpenAI
-https://meatybytes.io/posts/openshift/ocp-features/ai-ml/chatops/
 
 Azure ARO Compliance
 https://azure.microsoft.com/mediahandler/files/resourcefiles/microsoft-azure-compliance-offerings/Microsoft%20Azure%20Compliance%20Offerings.pdf
@@ -298,9 +284,6 @@ https://www.youtube.com/watch?v=k1xP37agUpM
 
 Azure ARO Training 
 https://learn.microsoft.com/en-us/training/modules/introduction-to-red-hat-azure/
-
-Drupal on OpenShift/ARO
-https://www.drupal.org/node/1888960
 
 Terraforming ARO with Github Actions 
 https://www.redhat.com/en/blog/terraforming-azure-red-hat-openshift-aro-with-github-actions
@@ -577,19 +560,22 @@ https://meatybytes.io/posts/openshift/ocp-features/ai-ml/chatops/
 
 
 
-**ARO ISV partners Storage and Backup**
+
+
+
+**Azure Red Hat OpenShift Supported ISV partners Storage and Backup Options**
 
 APAC COTS Initiative Multi-Cloud (internal) 
 https://source.redhat.com/groups/public/anz_cots_collaborations/ocp_workloads~2/cots_workloads_for_openshift/grow_your_ocp_revenue_with_cots_workloads_2024_sales_initiative
+
+Drupal on OpenShift ARO (provisonal support) 
+https://www.drupal.org/node/1888960
 
 Mulesoft on ARO
 https://developer.mulesoft.com/tutorials-and-howtos/anypoint-service-mesh/getting-started-with-anypoint-service-mesh-azure-red-hat-openshift/
 https://blogs.mulesoft.com/news/mulesoft-redhat-ibm-anypoint-runtime-fabric/
 
-Mulesoft Reference on ARO (internal) 
-https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=25dc1134-5ae3-4184-8c4f-e8b93efdcb1b
-
-SAS Viya on ARO 
+SAS Viya on ARO (provisional support)          
 https://www.redhat.com/en/blog/sas-viya-on-red-hat-openshift-part-1-reference-architecture-and-deployment-considerations
 https://pronteff.com/using-sas-viya-with-openshift-reference-architecture/
 
