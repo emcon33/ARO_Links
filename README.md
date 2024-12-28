@@ -575,8 +575,11 @@ https://meatybytes.io/posts/openshift/ocp-features/ai-ml/chatops/
 
 
 
+
+
 **Azure Red Hat OpenShift Supported ISV partners Storage and Backup Options**
 
+Trilio FSI refererence Architecture for cross region replicated DR       
 <p align="left">
   <a href="#"><img src="./isvaro.jpg" width="600"></a> <br />
   <em> 
