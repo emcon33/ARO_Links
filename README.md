@@ -236,6 +236,9 @@ https://learn.microsoft.com/en-us/azure/openshift/concepts-networking
 ARO GPU configuration 12/16/24
 https://learn.microsoft.com/en-us/azure/openshift/howto-gpu-workloads
 
+Azure Files on ARO 
+https://learn.microsoft.com/en-us/azure/openshift/howto-create-a-storageclass
+
 Specific ARO Reference (Microsoft site) 
 https://customers.microsoft.com/en-us/story/1485727667262024367-ortec-finance-cloud-native-platform-azure-red-hat-openshift
 
