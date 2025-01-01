@@ -233,7 +233,7 @@ https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-O
 ARO Network: Azure site
 https://learn.microsoft.com/en-us/azure/openshift/concepts-networking
 
-ARO GPU configuration
+ARO GPU configuration 12/16/24
 https://learn.microsoft.com/en-us/azure/openshift/howto-gpu-workloads
 
 Specific ARO Reference (Microsoft site) 
