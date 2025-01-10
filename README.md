@@ -256,6 +256,7 @@ Here is a quick, 4 min demo, of deploying an ARO cluster in the Azure portal: ht
 
 ARO Cost Management
 https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-red-hat-openshift#discount-applies-to-different-vm-sizes
+https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-red-hat-openshift
 
 **ARO Azure Integration **
 Integrate ARO with Azure DevOps (Blog and Video) 
