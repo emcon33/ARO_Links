@@ -110,8 +110,9 @@ https://www.youtube.com/watch?v=nl3whsKMdnE&t=76s
 ARO Level Up (POC Program) external
 http://red.ht/Level-Up
 
-ARO Level up POC Program (internal)
+ARO Level up POC Program (internal RH)
 https://source.redhat.com/groups/public/crosssellupsell/level_up_openshift/level_up_cloud_services
+https://source.redhat.com/departments/marketing/regional_engagment_and_growth/level_up_openshift/level_up_openshift_cloud_services
 
 ARO Managed OpenShift Black Belt Workshop (MOBB)
 https://microsoft.github.io/aroworkshop/
