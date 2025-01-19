@@ -1,6 +1,7 @@
 # Azure Red Hat Openshift ARO Public Links Document
 #by Andrew Grimes, this is my own effort and unnofficial 
 #These are links to help with documentation and resources for the joint Red Had and Microsoft Azure managed service based on OpenShift. 
+Verified Working 01/19/25
 
 Microsoft and Red Hat "Turnkey" Application Platform 
 <p align="left">
