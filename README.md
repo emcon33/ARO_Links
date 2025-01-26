@@ -11,6 +11,7 @@ Microsoft and Red Hat "Turnkey" Application Platform
 </p>
 
 
+
 **Azure and Red Hat Resources**
 
 Azure Red Hat OpenShift Main Resource Page
