@@ -342,6 +342,9 @@ Maximo MAS on ARO Reference Architecture
 Maximo on ARO Quick Azure Branded Documentation         
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/deploy-ibm-maximo-application-suite
 
+Microsoft Blog Maximo Update                                                                                                                                              
+https://techcommunity.microsoft.com/blog/appsonazureblog/modernizing-enterprise-asset-management-the-power-of-ibm-maximo-on-azure-red-hat/4373530
+
 IBM and Microsoft Blog on Why Maximo on ARO (Microsoft Version)       
 https://techcommunity.microsoft.com/t5/azure-migration-and/ibm-maximo-application-suite-migration-and-modernization-with/ba-p/4123838
 
