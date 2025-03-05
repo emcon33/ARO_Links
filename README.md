@@ -21,6 +21,11 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
 Azure Red Hat OpenShift Azure Public Training      
 https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/
 
+Next IBM Software on ARO Webinar 4/10/25                                                 
+https://redmondmag.com/Webcasts/2025/04/REDHAT-Modernize-your-IBM-Software-on-Azure-Red-Hat-OpenShift.aspx?tc=page0&pc=redhat&utm_source=webmktg&utm_medium=E-Mail&utm_campaign=redhat
+
+
+
 Full Azure Red Hat Openshift (ARO) Video Series     
 https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
 
