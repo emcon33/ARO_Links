@@ -161,8 +161,12 @@ https://github.com/redhat-ai-services/podman-ai-lab-to-rhoai
 
 **ARO References **
 
+
 Public Microsoft ARO References (Microsoft site) 
 https://customers.microsoft.com/en-us/search?sq=%22Azure%20red%20hat%20openshift%22&ff=&p=2&so=story_publish_date%20desc
+
+Terant ARO modernization with TCO public 
+https://www.microsoft.com/en/customers/story/22690-teranet-inc-azure-red-hat-openshift
 
 Ortec Finance ARO/RHOAI Reference (Microsoft site) 
 https://customers.microsoft.com/en-us/story/1485727667262024367-ortec-finance-cloud-native-platform-azure-red-hat-openshift
