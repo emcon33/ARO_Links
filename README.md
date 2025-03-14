@@ -103,7 +103,7 @@ Azure Sizer for Pricing supports ARO:
 Public ARO Pricing Calculator (export as xls and save as a link) 
 https://azure.microsoft.com/en-us/pricing/calculator/
 
-Public ARO Public Pricing per hour per instance type 
+Public ARO Public Pricing per month per instance type 
 https://azure.microsoft.com/en-us/pricing/details/openshift/
 
 Internal Red Hat Sizing on ARO	(Internal RH)        
