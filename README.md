@@ -18,9 +18,6 @@ Azure Red Hat OpenShift Main Resource Page
 Comprehensive List of resources for Storage, Install, Security, Scaling and DR etc. 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
 
-Azure Red Hat OpenShift Azure Public Training      
-https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/
-
 Next AI on ARO Workshop March 11th 2025                      
 https://events.redhat.com/profile/form/index.cfm?PKformID=0x1332889abcd&sc_cid=RHCTN1240000435353&elqTrackId=c4b911c78ec24949a9b7537ef3f2e659&elqTrack=true
 
@@ -57,8 +54,10 @@ https://github.com/emcon33/inference-aro-frontend
 Webinar IBM Software Modernization on ARO Webinar recording. 10/29/24
 https://www.youtube.com/watch?v=lJsamfisK8c
 
-Next Workshop Virtual Invitations for North America 
-TBS
+March 11th Virtual AI on ARO workshop recording (public) 
+https://youtu.be/pJVXgN3SUtU
+
+
 
 General ARO Content      
 
@@ -66,7 +65,10 @@ Azure ARO overview Video short
 https://www.youtube.com/watch?v=H6PTZ6OXjkE
 
 Azure ARO Workloads (AI, Cloud Pak(s), NVIDIA) 
-https://www.youtube.com/watch?v=jdMwmWiMOFU
+https://www.youtube.com/watch?v=
+
+Azure Red Hat OpenShift Azure Public Training      
+https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/
 
 Azure ARO overview Video
 https://www.youtube.com/watch?v=OQuikb8VcTY
