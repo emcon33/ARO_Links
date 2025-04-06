@@ -18,14 +18,14 @@ Azure Red Hat OpenShift Main Resource Page
 Comprehensive List of resources for Storage, Install, Security, Scaling and DR etc. 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/azure/learn
 
-Next AI on ARO Workshop March 11th 2025                      
-https://events.redhat.com/profile/form/index.cfm?PKformID=0x1332889abcd&sc_cid=RHCTN1240000435353&elqTrackId=c4b911c78ec24949a9b7537ef3f2e659&elqTrack=true
-
-Next IBM Software on ARO Webinar 4/10/25                                                 
+Next IBM Software on ARO Webinar Demand Generation 4/10/25                                                 
 https://redmondmag.com/Webcasts/2025/04/REDHAT-Modernize-your-IBM-Software-on-Azure-Red-Hat-OpenShift.aspx?tc=page0&pc=redhat&utm_source=webmktg&utm_medium=E-Mail&utm_campaign=redhat
 
 IBM Maximo on ARO In Person Event Calgary May 1st
 https://events.redhat.com/profile/form/index.cfm?PKformID=0x1387229abcd
+
+Red Hat Summit Commercial Software Modernization on Azure Red Hat OpenShift Presentation May 20th.                                       
+https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1731024460426001G6zp
 
 Full Azure Red Hat Openshift (ARO) Video Series     
 https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
@@ -47,6 +47,7 @@ Azure Red Hat OpenShift Public Inference Workshop with Resnet50
   </em>
 </p>
 
+Azure Red Hat OpenShift Workshop Demo for Inference                                                           
 https://github.com/emcon33/inference-aro-workshop                  
 https://github.com/emcon33/inference-aro-frontend
 
@@ -54,7 +55,8 @@ https://github.com/emcon33/inference-aro-frontend
 Webinar IBM Software Modernization on ARO Webinar recording. 10/29/24
 https://www.youtube.com/watch?v=lJsamfisK8c
 
-March 11th Virtual AI on ARO workshop recording (public) 
+March 11th Virtual AI on ARO workshop recording (public)                     
+https://events.redhat.com/profile/form/index.cfm?PKformID=0x1332889abcd&sc_cid=RHCTN1240000435353&elqTrackId=c4b911c78ec24949a9b7537ef3f2e659&elqTrack=true
 https://youtu.be/pJVXgN3SUtU
 
 
