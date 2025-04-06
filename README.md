@@ -27,7 +27,8 @@ https://events.redhat.com/profile/form/index.cfm?PKformID=0x1332889abcd&sc_cid=R
 Next IBM Software on ARO Webinar 4/10/25                                                 
 https://redmondmag.com/Webcasts/2025/04/REDHAT-Modernize-your-IBM-Software-on-Azure-Red-Hat-OpenShift.aspx?tc=page0&pc=redhat&utm_source=webmktg&utm_medium=E-Mail&utm_campaign=redhat
 
-
+IBM Maximo on ARO In Person Event Calgary May 1st
+https://events.redhat.com/profile/form/index.cfm?PKformID=0x1387229abcd
 
 Full Azure Red Hat Openshift (ARO) Video Series     
 https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqcY-4O8VTy_a68uG_aXdxBK
